@@ -1,0 +1,18 @@
+database:
+ mongo:
+  host: "127.0.0.1"
+  port: 27017
+  authentication:
+   enabled: false
+   username: ""
+   password: ""
+ redis:
+  host: "127.0.0.1"
+  port: 6379
+  authentication:
+   enabled: false
+   password: ""
+settings:
+ server:
+  name: "Others"
+  displayname: "RettoPvP"

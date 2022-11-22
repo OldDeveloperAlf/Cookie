@@ -1,0 +1,5 @@
+name: Cookie
+version: 1.0-SNAPSHOT
+description: This project has been created to RettoPvP.
+main: us.rettopvp.cookie.CookiePlugin
+authors: [Azxxer, Nebrera]
